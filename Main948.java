@@ -36,13 +36,13 @@ class Aluno {
     }
 }
 
-public class Main9 {
+public class Main948 {
     public static void main(String[] args) {
         Aluno aluno = new Aluno(
-            "Viturino",
-            "12/12/2007",
-            "(85) 98888-7777",
-            "bebezona linda demais"
+            "Gabriel",
+            "25/06/2009",
+            "(85) 9 9676-6767",
+            "Gojo"
         );
 
         aluno.saudacao();
